@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configpalidate",
+        "uuid": 32503111,
+        "checksum": "gki3k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
